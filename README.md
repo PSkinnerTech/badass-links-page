@@ -2,7 +2,8 @@
 
 **Demo Link:** https://links.patrickskinner.tech
 
-![badass-links-page](https://user-images.githubusercontent.com/78289253/226677973-b129c128-18f5-404c-965b-c56d9249fe59.gif align="center")
+![badass-links-page](https://user-images.githubusercontent.com/78289253/226743482-f2d68022-3c67-4c92-9acd-717cb3c1133b.gif)
+
 
 ### Required Knowledge For this Project:
 
@@ -287,7 +288,7 @@ header > img {
 
 **Once completed, this will reshape the container of your PFP to the style that you created in the SVG Shape Generator from Softr.io.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679430356273/7913a6b5-667f-4ae4-93ba-b54aafcc63c7.png align="center")
+<img width="443" alt="Screenshot 2023-03-21 at 3 25 22 PM" src="https://user-images.githubusercontent.com/78289253/226743610-9d607976-b171-42c1-8016-9ac14f7ecd4b.png">
 
 ## Stylizing your H1
 
@@ -307,8 +308,7 @@ header > h1 {
   border: 1px solid #fffa;
 }
 ```
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679429908644/baba9e53-ac6e-4e2e-ba50-99ffe6e6a3dd.png align="center")
+<img width="443" alt="Screenshot 2023-03-21 at 3 18 13 PM" src="https://user-images.githubusercontent.com/78289253/226743656-c8f8b31f-e24e-4627-93a8-80b162a08dba.png">
 
 ## Stylizing the Link Buttons
 
@@ -363,7 +363,7 @@ a {
 
 **The final result should look like this:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679430886995/4599f164-110d-4bb1-8e39-c15966b40502.png align="center")
+<img width="565" alt="Screenshot 2023-03-21 at 3 34 25 PM" src="https://user-images.githubusercontent.com/78289253/226743771-b7f9d780-4717-4370-9aa1-696052978169.png">
 
 ## Stylizing the Background with Vanta.js Motion Graphics
 
